@@ -966,6 +966,9 @@ footer h3,
     text-transform: none;
     font-weight: normal;
 }
+footer .modal-content .modal-title{
+    color: #eb3349;
+}
 
 footer a:hover {
     color: #212121;
